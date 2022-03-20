@@ -1,7 +1,7 @@
 # Plantilla para usar Three.js con React 
 Sientete libre de usar esta plantilla c: 
-<br />
-Plantilla para un render realista
+
+## Tutorial
 https://www.youtube.com/watch?v=F7ZIsUJjC_8
 
 ## Instalacion 
